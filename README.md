@@ -1,6 +1,6 @@
 # Prueba - Club deportivo
 ## Descripción
-En esta prueba, validamos nuestros conocimientos en el desarrollo de sistemas CRUD y la persistencia de datos en archivos JSON. Para lograrlo, aplicamos nuestras habilidades en la creación de rutas y endpoints en un servidor, manejo de solicitudes y respuestas HTTP, así como la implementación de operaciones de Crear, Leer, Actualizar y Eliminar
+En esta prueba, se valida nuestros conocimientos en el desarrollo de sistemas CRUD y la persistencia de datos en archivos JSON. Para lograrlo, se crea rutas y endpoints en un servidor, manejo de solicitudes y respuestas HTTP, así como la implementación de operaciones de Crear, Leer, Actualizar y Eliminar
 ## Tecnologías Utilizadas
 - NODE
 ## Requerimientos
